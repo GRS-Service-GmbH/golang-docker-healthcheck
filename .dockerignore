@@ -5,3 +5,5 @@ LICENSE
 .dockerignore
 .git
 .gitignore
+.idea
+*.iml
