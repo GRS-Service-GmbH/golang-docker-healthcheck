@@ -1,7 +1,7 @@
 # Golang Docker HEALTHCHECK
 ### Simple HEALTHCHECK solution for Go Docker container
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/GRS-Service-GmbH/golang-docker-healthcheck/blob/master/LICENSE.md)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/GRS-Service-GmbH/golang-docker-healthcheck/blob/master/LICENSE)
 
 ## The Problem
 We usually add a `HEALTHCHECK` instruction to our Dockerfiles and then check their status with the `docker inspect` command.
