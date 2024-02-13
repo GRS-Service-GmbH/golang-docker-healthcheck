@@ -1,5 +1,5 @@
 # Stage 1: Use a builder as first stage to build the application
-FROM golang:1.22 AS builder
+FROM golang:1.21 AS builder
 
 RUN adduser application
 USER application
